@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitrahul96
+- 👋 Hi, I’m gitrahul96
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 📫 You can reach me at https://www.linkedin.com/in/rahul-choudhary-b77507148/
